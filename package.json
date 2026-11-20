@@ -1,0 +1,12 @@
+{
+  "name": "room-temperature-monitoring",
+  "version": "1.0.0",
+  "description": "MHC Hourly Room Temperature Monitoring System with Real-Time Cloud Sync",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["mhc", "temperature-monitoring", "haccp", "gmp", "cold-storage"],
+  "author": "May Harvest Corporation",
+  "license": "ISC"
+}
